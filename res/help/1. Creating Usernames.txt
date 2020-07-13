@@ -1,0 +1,18 @@
+<html>
+<h1>Creating Usernames</h1>
+<h2>Creating the user names for Year 7 to 11 students </h2>
+<ol type = "1">
+<li>Click on the choice year group and it will open a new form</li>
+<li> You can either input the file path and select generate or click generate</li>
+   <ol type ="i">
+   <li> If you click generate w/out inputting a file path, a window will open where you can select the desired file </li>
+  <li> The file must be either in .csv or .txt with commas seperating each element in row</li>
+  <li>The file must have the first line allocated to stating what each coloumn is.</li>
+   <li> The file must be in the order: Surname,Forename,House</li>
+    </ol>
+<li> Once you see the message that the usernames have been create, you can preview them with the preview button</li>
+this allows you to change some of the usernames as you wish.
+<li> Press the save button to create and save files needed to add the student(s) to the school system</li>
+</ol>
+</p>
+</html>

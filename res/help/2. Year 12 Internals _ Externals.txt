@@ -1,0 +1,13 @@
+<html>
+<h1> Year 12 </h1>
+
+<h2>Moving Year 11 to Year 12 Internals</h2>
+<ol type = "1">
+<li>Input the form groups according to the table headings  </li>
+<li>Clicking Go will take you to a window where you can select the new form group or if the student is leaving</li>
+<li>After selecting submit a popup menu will ask if you want to see the script</li>
+<li>If you don't know what gam script is, then click no</li>
+</ol>
+<h2>Moving Year 11 to Year 12 Externals</h2>
+<p>h</p>
+</html>
